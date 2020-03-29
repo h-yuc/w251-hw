@@ -7,13 +7,13 @@ Runtime and AUC score Report:
 
 P100:
 
-==================================================================
+-----------------------------
 
 max:
 
 What an arrogant piece of shit. This arrogant piece of garbage isn't worthy to collect dog feces, let alone be elected to an office that Alaskans have to pay for. Those that elected him seriously need to re-think their values. And we wonder why our state is in the physical shape we are in.
 
-==================================================================
+-----------------------------
 
 min:
 
@@ -21,11 +21,11 @@ NO , massive tax increases on businesses means they wont invest and that hurts t
 
 now income tax cuts means more money in the economy right away and that means a growing economy which means MORE NET tax revenue for governments as it has happened every time such has been done here and in the usa! it happened when mike harris did it, when reagan did it and yes even when John F kennedy did it!
 
-==================================================================
+-----------------------------
 
 V100:
 
-==================================================================
+-----------------------------
 
 max:
 
@@ -35,7 +35,7 @@ He's the largest threat to our nation's security and Congress should exercise it
 He's a petty con man, a racist supremacist, a sexual predator and a traitor.
 Worst ever.
 
-==================================================================
+-----------------------------
 
 min:
 
@@ -46,17 +46,17 @@ Wow, I should subscribe.
 
 *Look those things up
 
-==================================================================
+-----------------------------
 
 V100, 2 Epochs:
 
-==================================================================
+-----------------------------
 
 max:
 
 you are a fool
 
-==================================================================
+-----------------------------
 
 min:
 
