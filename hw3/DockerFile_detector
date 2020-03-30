@@ -1,0 +1,20 @@
+FROM ubuntu
+
+ENV DEBIAN_FRONTEND=noninteractive
+
+RUN apt-get update
+RUN apt-get install -y python-opencv \
+                       python-pip \
+                       libopencv-dev \
+                       libcanberra-gtk3-module \
+                       vim-tiny \
+                       mosquitto-clients
+
+RUN pip install paho-mqtt
+
+RUN mkdir faceDetector
+COPY . /faceDetector
+WORKDIR /faceDetector
+
+ENTRYPOINT [ "python" ]
+CMD ["faceDetector.py" ]

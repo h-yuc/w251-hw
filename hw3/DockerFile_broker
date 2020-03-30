@@ -1,0 +1,20 @@
+From alpine:latest
+
+ENV PACKAGES="\
+		bash \
+		vim \
+		mosquitto-clients \
+		mosquitto \
+		python \
+		py-pip \
+		"	
+RUN apk update
+RUN apk --no-cache add $PACKAGES
+RUN pip install paho-mqtt
+RUN apk add mosquitto
+
+EXPOSE 1883
+EXPOSE 9001
+
+ENV ARCH=aarch64
+ENV PATH /usr/sbin:$PATH
