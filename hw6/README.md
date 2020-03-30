@@ -1,21 +1,19 @@
-Runtime and AUC score Report:
+## Runtime and AUC score Report:
 
 |                | P100         | V100        | V100, 2 Epochs |
 |----------------|--------------|-------------|----------------|
 | Training Time  | 6h 53min 25s | 2h 7min 45s |                |
 | AUC score      | 0.97000      | 0.96990     | 0.96968        |
 
-P100:
+### P100:
 
------------------------------
 
-max:
+#### max:
 
 What an arrogant piece of shit. This arrogant piece of garbage isn't worthy to collect dog feces, let alone be elected to an office that Alaskans have to pay for. Those that elected him seriously need to re-think their values. And we wonder why our state is in the physical shape we are in.
 
------------------------------
 
-min:
+#### min:
 
 NO , massive tax increases on businesses means they wont invest and that hurts the economy. More on the wealthy? you are not satisfied that they already pay a huge portion of all taxes? how much should the be taxed, 100 % then? wow jealousy or what! 
 
@@ -23,11 +21,10 @@ now income tax cuts means more money in the economy right away and that means a 
 
 -----------------------------
 
-V100:
+### V100:
 
------------------------------
 
-max:
+#### max:
 
 Trump is a mentally unbalanced buffoon.
 He's unfit for office.
@@ -35,9 +32,8 @@ He's the largest threat to our nation's security and Congress should exercise it
 He's a petty con man, a racist supremacist, a sexual predator and a traitor.
 Worst ever.
 
------------------------------
 
-min:
+#### min:
 
 Rolling Stone supports the nationalization of the means of production*, democratization of the workplace*, income distribution*, food and education for the poor* and peace and prosperity*??  Who knew?
 
@@ -48,17 +44,14 @@ Wow, I should subscribe.
 
 -----------------------------
 
-V100, 2 Epochs:
+### V100, 2 Epochs:
 
------------------------------
-
-max:
+#### max:
 
 you are a fool
 
------------------------------
 
-min:
+#### min:
 
 Good idea too have begun your comment with a conditional clause, because that is precisely what a number of readers of your comment are asking: namely, is your motivation really seeking the greatest good for a certain group of people ... ?  
 
