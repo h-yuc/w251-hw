@@ -22,16 +22,22 @@
 ### Image processing on TX2
 
 	docker build -t saver -f DockerFile_saver .
-	docker run --name saver -v /mnt/w251bucket/:/mnt/w251bucket/ --network hw3 --rm -ti saver
+	docker run --name saver -v /mnt/w251bucket-hw3/:/mnt/w251bucket-hw3/ --network hw3 --rm -ti saver
  
-  Subscribe messages for `facedetection` with QoS = 2. Save faces in object storage bucket to `w251bucket`.
+  Subscribe messages for `facedetection` with QoS = 2. Save faces in object storage bucket to `w251bucket-hw3`.
    
 ### Object storage
 
-	sudo s3fs w251bucket /mnt/w251bucket -o nonempty -o passwd_file=$HOME/.cos_creds -o sigv2 -o use_path_request_style -o url=http://s3.sjc.us.cloud-object-storage.appdomain.cloud
+	sudo s3fs w251bucket-hw3 /mnt/w251bucket-hw3 -o nonempty -o passwd_file=$HOME/.cos_creds -o sigv2 -o use_path_request_style -o url=http://s3.us-east.cloud-object-storage.appdomain.cloud
 	
-  link: https://cloud.ibm.com/classic/storage/cloudobjectstorage/details?slAccountId=2042274#accountId=
+  image:
   
+	http://s3.us-east.cloud-object-storage.appdomain.cloud/w251bucket-hw3/img1015.png
+	http://s3.us-east.cloud-object-storage.appdomain.cloud/w251bucket-hw3/img1031.png
+	http://s3.us-east.cloud-object-storage.appdomain.cloud/w251bucket-hw3/img1067.png
+	http://s3.us-east.cloud-object-storage.appdomain.cloud/w251bucket-hw3/img1086.png
+
+
 ![image](img1015.png)
 ![image](img1031.png)
 ![image](img1067.png)
